@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kwasi3114
-- 👀 I’m interested in many things including AI, Robotics, and Astrophysics
+- 👀 I’m interested in many things but mainly AI and Robotics. 
 - 🌱 I’m currently learning about the fundamentals of Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on any project . 
 - 📫 How to reach me: my school email is usually the best way to reach me
